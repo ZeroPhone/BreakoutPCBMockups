@@ -7,15 +7,16 @@
 *.kicad_pcb-bak
 *~
 _autosave-*
+_saved_*
 *.tmp
 
 # Netlist files (exported from Eeschema)
 *.net
 
 # Autorouter files (exported from Pcbnew)
-*.dsn
-*.ses
+.dsn
 
 # Exported BOM files
-*.xml
-*.csv
+# *.xml
+# *.csv
+Thumbs.db
