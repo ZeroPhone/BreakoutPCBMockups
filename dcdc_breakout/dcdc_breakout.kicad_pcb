@@ -192,7 +192,7 @@
   )
 
   (module Capacitors_SMD:C_0603 (layer F.Cu) (tedit 58AA844E) (tstamp 5939F94A)
-    (at 146.75 98.5 180)
+    (at 147.35 99.7 180)
     (descr "Capacitor SMD 0603, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0603")
     (path /5939F7C4)
@@ -228,7 +228,7 @@
   )
 
   (module Capacitors_SMD:C_0805 (layer F.Cu) (tedit 58AA8463) (tstamp 5939F950)
-    (at 146.75 100.25 180)
+    (at 147.35 101.45 180)
     (descr "Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0805")
     (path /5939F79B)
@@ -264,7 +264,7 @@
   )
 
   (module Capacitors_SMD:C_1206 (layer F.Cu) (tedit 58AA84B8) (tstamp 5939F956)
-    (at 152 105.5 270)
+    (at 152.4 105.9 270)
     (descr "Capacitor SMD 1206, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 1206")
     (path /5939F776)
@@ -300,7 +300,7 @@
   )
 
   (module LEDs:LED_0603 (layer F.Cu) (tedit 57FE93A5) (tstamp 5939F95C)
-    (at 145.2 96.5)
+    (at 145.3 97.9)
     (descr "LED 0603 smd package")
     (tags "LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED")
     (path /5939F7EC)
@@ -338,7 +338,7 @@
   )
 
   (module SMD_Packages:SOIC-8-N (layer F.Cu) (tedit 0) (tstamp 5939F968)
-    (at 146.5011 104.75 270)
+    (at 147.3 105.3 270)
     (descr "Module Narrow CMS SOJ 8 pins large")
     (tags "CMS SOJ")
     (path /5939F6E8)
@@ -380,7 +380,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5939F974)
-    (at 149 96.5 180)
+    (at 149.1 97.9 180)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5939F8F1)
@@ -416,7 +416,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5939F97A)
-    (at 154.25 103.5 90)
+    (at 154.4 104.25 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5939FA99)
@@ -452,7 +452,7 @@
   )
 
   (module Resistors_SMD:R_0603 (layer F.Cu) (tedit 58E0A804) (tstamp 5939F980)
-    (at 154.25 107.25 90)
+    (at 154.4 107.15 90)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
     (path /5939FA52)
@@ -488,7 +488,7 @@
   )
 
   (module dcdc_breakout:INDUCTOR (layer F.Cu) (tedit 574C3AE3) (tstamp 593A00DC)
-    (at 148.5 113.5 180)
+    (at 148.5 113.2 180)
     (descr "Inductor, Taiyo Yuden, NR series, Taiyo-Yuden_NR-60xx, 6.0mmx6.0mm")
     (tags "inductor taiyo-yuden nr smd")
     (path /5939F6BB)
