@@ -521,7 +521,7 @@
       (net 1 VSS))
     (pad 2 smd rect (at 3.875 0 180) (size 1.6 5.9) (layers F.Cu F.Paste F.Mask)
       (net 9 "Net-(J1-Pad1)"))
-    (model Inductors.3dshapes/Inductor_Taiyo-Yuden_NR-60xx.wrl
+    (model ${KIPRJMOD}/inductor.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
